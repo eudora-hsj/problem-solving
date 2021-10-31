@@ -1,7 +1,6 @@
 # Table of contents
 
 * [ReadMe](README.md)
-
 # LeetCode JavaScript
 
 * [0001](leetcode-javascript/0001.md)
