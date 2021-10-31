@@ -4,4 +4,5 @@
 
 ## LeetCode JavaScript
 
-* [1684. Count the Number of Consistent Strings](leetcode-javascript/1684.-count-the-number-of-consistent-strings.md)
+* [1684. Count the Number of Consistent Strings](leetcode-javascript/1684.md)
+* [0290. Word Pattern](leetcode-javascript/0290.md)
