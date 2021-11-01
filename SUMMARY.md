@@ -15,6 +15,7 @@
 * [0066. Plus One](leetcode-x-javascript/0066.md)
 * [0136. Single Number](leetcode-x-javascript/0136.md)
 * [0151. Reverse Words in a String](leetcode-x-javascript/0151.md)
+* [0231. Power of Two](leetcode-x-javascript/0231.md)
 * [0258. Add Digits](leetcode-x-javascript/0258.md)
 * [0283. Move Zeroes](leetcode-x-javascript/0283.md)
 * [0290. Word Pattern](leetcode-x-javascript/0290.md)
