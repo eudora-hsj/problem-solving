@@ -21,6 +21,7 @@
 * [0290. Word Pattern](leetcode-x-javascript/0290.md)
 * [0344. Reverse String](leetcode-x-javascript/0344.md)
 * [0389. Find the Difference](leetcode-x-javascript/0389.md)
+* [1108. Defanging an IP Address](leetcode-x-javascript/1008.md)
 * [1480. Running Sum of 1d Array](leetcode-x-javascript/1480.md)
 * [1684. Count the Number of Consistent Strings](leetcode-x-javascript/1684.md)
 * [1929. Concatenation of Array](leetcode-x-javascript/1929.md)
