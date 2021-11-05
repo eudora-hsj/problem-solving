@@ -10,6 +10,7 @@
 * [0014. Longest Common Prefix](leetcode-x-javascript/0014.md)
 * [0026. Remove Duplicates from Sorted Array](leetcode-x-javascript/0026.md)
 * [0027. Remove Element](leetcode-x-javascript/0027.md)
+* [0028. Implement strStr()](leetcode-x-javascript/0028.md)
 * [0035. Search Insert Position](leetcode-x-javascript/0035.md)
 * [0058. Length of Last Word](leetcode-x-javascript/0058.md)
 * [0066. Plus One](leetcode-x-javascript/0066.md)
