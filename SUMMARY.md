@@ -28,6 +28,7 @@
 * [0389. Find the Difference](leetcode-x-javascript/0389.md)
 * <!-- * 0415 -->
 * [1108. Defanging an IP Address](leetcode-x-javascript/1008.md)
+* [1342. Number of Steps to Reduce a Number to Zero](leetcode-x-javascript/1342.md)
 * [1470. Shuffle the Array](leetcode-x-javascript/1470.md)
 * [1480. Running Sum of 1d Array](leetcode-x-javascript/1480.md)
 * [1684. Count the Number of Consistent Strings](leetcode-x-javascript/1684.md)
