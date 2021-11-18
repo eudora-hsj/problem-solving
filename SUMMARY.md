@@ -32,6 +32,7 @@
 * [1470. Shuffle the Array](leetcode-x-javascript/1470.md)
 * [1480. Running Sum of 1d Array](leetcode-x-javascript/1480.md)
 * [1684. Count the Number of Consistent Strings](leetcode-x-javascript/1684.md)
+* [1816. Truncate Sentence](leetcode-x-javascript/1816.md)
 * [1929. Concatenation of Array](leetcode-x-javascript/1929.md)
 * [2032. Two Out of Three](leetcode-x-javascript/2032.md)
 
