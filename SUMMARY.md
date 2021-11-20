@@ -5,6 +5,7 @@
 ## LeetCode x JavaScript
 
 * [0001. Two Sum](leetcode-x-javascript/0001.md)
+* [0004. Median of Two Sorted Arrays](leetcode-x-javascript/0004.md)
 * [0007. Reverse Integer](leetcode-x-javascript/0007.md)
 * [0009. Palindrome Number](leetcode-x-javascript/0009.md)
 * [0014. Longest Common Prefix](leetcode-x-javascript/0014.md)
