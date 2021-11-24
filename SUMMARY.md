@@ -19,6 +19,7 @@
 <!-- * 0075 -->
 * [0136. Single Number](leetcode-x-javascript/0136.md)
 * [0151. Reverse Words in a String](leetcode-x-javascript/0151.md)
+* [0169. Majority Element](leetcode-x-javascript/0169.md)
 * <!-- * 0202 -->
 * [0231. Power of Two](leetcode-x-javascript/0231.md)
 * [0258. Add Digits](leetcode-x-javascript/0258.md)
