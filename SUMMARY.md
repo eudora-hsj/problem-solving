@@ -13,14 +13,11 @@
 * [0027. Remove Element](leetcode-x-javascript/0027.md)
 * [0028. Implement strStr()](leetcode-x-javascript/0028.md)
 * [0035. Search Insert Position](leetcode-x-javascript/0035.md)
-<!-- * 0050 -->
 * [0058. Length of Last Word](leetcode-x-javascript/0058.md)
 * [0066. Plus One](leetcode-x-javascript/0066.md)
-<!-- * 0075 -->
 * [0136. Single Number](leetcode-x-javascript/0136.md)
 * [0151. Reverse Words in a String](leetcode-x-javascript/0151.md)
 * [0169. Majority Element](leetcode-x-javascript/0169.md)
-* <!-- * 0202 -->
 * [0231. Power of Two](leetcode-x-javascript/0231.md)
 * [0258. Add Digits](leetcode-x-javascript/0258.md)
 * [0268. Missing Number](leetcode-x-javascript/0268.md)
@@ -28,7 +25,6 @@
 * [0290. Word Pattern](leetcode-x-javascript/0290.md)
 * [0344. Reverse String](leetcode-x-javascript/0344.md)
 * [0389. Find the Difference](leetcode-x-javascript/0389.md)
-* <!-- * 0415 -->
 * [1108. Defanging an IP Address](leetcode-x-javascript/1108.md)
 * [1342. Number of Steps to Reduce a Number to Zero](leetcode-x-javascript/1342.md)
 * [1470. Shuffle the Array](leetcode-x-javascript/1470.md)
