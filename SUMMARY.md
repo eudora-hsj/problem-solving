@@ -40,4 +40,4 @@
 
 ## Codewars x JavaScript
 
-* [-](codewars-x-javascript/undefined.md)
+* [-](codewars-x-javascript/TEST.md)
